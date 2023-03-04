@@ -1,0 +1,208 @@
+.team-details-main-container{
+    padding: 24px 8% 4%;
+    box-sizing: border-box;
+    margin-top: 90px;
+}
+
+.team-details-team-card{
+    width: 100%;
+    display: flex;
+    border-radius: 6px;
+    box-shadow: 0 0 6px #ccc;
+    margin-bottom: 48px;
+}
+
+.team-details-team-image{
+    width: 200px;
+    height: 150px;
+    padding: 4%;
+    display: flex;
+ 
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+}
+
+.mainimage{
+    height: 70%;
+ 
+}
+
+.team-details-detailswrapper{
+    width: calc(100% - 200px);
+    padding: 32px 16px;
+    box-sizing: border-box;
+}
+
+.team-details-detailswrapper-h1{
+    font-size: 24px;
+    margin: 0;
+}
+
+.team-details-stats-wrapper{
+    margin-top: 4px;
+    display: flex;
+   
+    align-items: center;
+    margin: 0;
+    padding: 0px 0;
+    
+}
+.team-details-stats-wrapper h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: large;
+    font-weight: bold;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.TeamDetailPage_StatsLabel__M-rGm {
+    font-size: large;
+    font-weight: 600;
+    margin: 0 8px 0 0;
+    color: rgba(0,0,0,.8);
+}
+.TeamDetailPage_StatsValue__jCcwk p{
+    margin: 0;
+    
+}
+.TeamDetailPage_StatsWrapper__2gWPZ{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    padding: 4px 0;
+}
+.TeamDetailPage_StatsLabel__M-rGm{
+    font-size:large;
+    font-weight: 600;
+    margin: 0 8px 0 0;
+    color: rgba(0,0,0,.8);
+}
+.eamDetailPage_StatsValue__jCcwk{
+    
+    margin: 0;
+
+}
+.TeamDetailPage_StatsWrapper__2gWPZ {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    padding: 4px 0;
+}
+
+.TeamDetailPage_StatsLabel__M-rGm {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 0 8px 0 0;
+    color: rgba(0,0,0,.8);
+}
+.TeamDetailPage_StatsValue__jCcwk {
+    margin: 0;
+}
+.TeamDetailPage_StatsValue__jCcwk {
+    margin: 0;
+}
+
+.TeamDetailPage_MainHeading__1A_Be {
+    font-size: 24px;
+    margin: 0;
+}
+.TeamDetailPage_PlayersGrid__3nPdR {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.TeamDetailPage_PlayersGrid__3nPdR>div {
+    width: calc(20% - 16px);
+    margin: 8px;
+}
+
+.PlayerCard_PlayerCard__3V5lN {
+    width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 0 5px #ccc;
+    cursor: pointer;
+}
+.PlayerCard_PlayerImageWrapper__IxBc_ {
+    padding: 0 2%;
+    display: flex;
+    background-image: linear-gradient(45deg, rgb(220, 181, 47), rgb(185, 36, 26));
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+}
+.PlayerCard_PlayerImage__2NQPh {
+    width: 100%;
+}
+.PlayerCard_PlayerDataWrapper__1pwlj {
+    padding: 16px;
+}
+.PlayerCard_PlayerName__V5GIx {
+    margin: 0 0 16px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(0,0,0,.8);
+}
+.PlayerCard_PlayerStatsWrapper__38xmh {
+    width: 100%;
+    display: flex;
+    text-align: center;
+}
+.PlayerCard_StatValue__1qB-f {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(0,0,0,.8);
+    margin: 0;
+}
+
+.PlayerCard_StatLabel__3EO5Y {
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: rgba(0,0,0,.8);
+    margin: 0;
+}
+.PlayerCard_StatValue__1qB-f {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(0,0,0,.8);
+    margin: 0;
+}
+.PlayerCard_StatLabel__3EO5Y {
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: rgba(0,0,0,.8);
+    margin: 0;
+}
+.PlayerCard_StatValue__1qB-f {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(0,0,0,.8);
+    margin: 0;
+}
+.PlayerCard_StatLabel__3EO5Y {
+    font-size: 10px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: rgba(0,0,0,.8);
+    margin: 0;
+}
+.PlayerCard_PlayerStatsWrapper__38xmh {
+    width: 100%;
+    display: flex;
+    gap:30px;
+    text-align: center;
+}

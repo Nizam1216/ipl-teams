@@ -1,0 +1,86 @@
+section {
+    display: block;
+}
+.LoginPage_LoginForm__3Amb5 {
+    width: 400px;
+    background-color: #fff;
+    border-radius: 6px;
+    box-shadow: 0 0 5px #ccc;
+    padding: 24px 16px;
+    margin: 100px auto 0;
+}
+.LoginPage_Heading__19ol_ {
+    margin: 0 0 24px;
+}
+.LoginPage_InputField__21cm8 {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 4px;
+    margin: 8px 0;
+}
+
+
+
+.LoginPage_Heading__19ol_ {
+    margin: 0 0 24px;
+}
+
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+input {
+    writing-mode: horizontal-tb !important;
+  
+    text-rendering: auto;
+    color: fieldtext;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    background-color: field;
+    margin: 0em;
+    padding: 1px 2px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133));
+    border-image: initial;
+}
+button {
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+   
+    text-rendering: auto;
+ 
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    align-items: flex-start;
+    cursor: default;
+    box-sizing: border-box;
+    
+    margin: 0em;
+    padding: 1px 6px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
